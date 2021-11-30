@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# moodle installation script
+# moodle installation script on ubuntu 20.04 lts
 
 MOODLE_DB=dbmoodle
 MOODLE_DB_USER=moodledbadmin
