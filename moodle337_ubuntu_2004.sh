@@ -9,7 +9,7 @@ MOODLE_DB_PASSWORD=abcd1234
 clear
 
 echo ""
-echo "---- HELP DESK ONLINE - MOODLE 3.37 INSTALLATION ----"
+echo "---- MOODLE 3.37 INSTALLATION ----"
 echo ""
 
 if [[ $SUDO_USER ]] ; then
